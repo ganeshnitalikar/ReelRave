@@ -1,0 +1,29 @@
+name: ree_rave
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  video_player: ^2.8.6
+  cloud_firestore: ^5.0.0
+  firebase_auth: ^5.0.0
+  firebase_core: ^3.0.0
+  firebase_storage: ^12.0.0
+  get: ^4.6.6
+  image_picker: ^1.1.2
+  video_compress: ^3.1.2
+  timeago: ^3.6.1
+  cached_network_image: ^3.3.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

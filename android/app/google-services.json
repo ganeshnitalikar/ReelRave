@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936981766823",
+    "project_id": "reelrave-3d6db",
+    "storage_bucket": "reelrave-3d6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936981766823:android:68796c6a85540404d2f182",
+        "android_client_info": {
+          "package_name": "com.example.ree_rave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWlMxxuKgPLLatkbaqFOoNbhbuqkdav90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
